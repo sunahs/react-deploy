@@ -5,7 +5,7 @@ import Home from "./routes/Home";
 import Contact from "./routes/Contact";
 import Navigation from "./components/Navigation";
 import logo from './logo.svg';
-import './App.css';
+import './scss/App.scss';
 
 function App() {
 	return (
